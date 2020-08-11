@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" verbose="0">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="Assessment.monkeyuser.ComicsBook">
+        <methods>
+          <include name="comicBook"/>
+        </methods>
+      </class> <!-- Assessment.monkeyuser.ComicsBook -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
